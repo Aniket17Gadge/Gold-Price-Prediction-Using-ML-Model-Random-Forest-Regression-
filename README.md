@@ -1,1 +1,2 @@
 # Gold-Price-Prediction-Using-ML-Model-Random-Forest-Regression-
+ In this project would forecast gold rates using the most comprehensive set of features and would apply various machine learning algorithms for forecasting and compare their results. We also identify the attributes that highly influence the gold rates. Forecasting rise and fall in the daily gold rates, can help investors to decide when to buy (or sell) the commodity.
